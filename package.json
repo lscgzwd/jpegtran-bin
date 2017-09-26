@@ -1,6 +1,6 @@
 {
   "name": "china-jpegtran-bin",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "jpegtran (part of libjpeg-turbo) bin-wrapper that makes it seamlessly available as a local dependency, 同步官方代码，解决国内下载jpegtran-bin,optipng-bin依赖的源码慢的问题",
   "license": "MIT",
   "repository": {
